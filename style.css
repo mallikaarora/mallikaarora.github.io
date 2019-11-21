@@ -1,0 +1,104 @@
+.bgimg{
+    background-image:url("laptop.jpg");
+    background-size: 100% 97%;
+     background-repeat: no-repeat;
+     min-height: 500px;
+}
+
+
+ 
+
+
+
+
+
+
+
+ .nav-item{
+     padding-right: 80px;
+     padding-left: 80px;
+     font-size: 20px;
+     font-family:  'Inconsolata', monospace;
+ }
+ 
+
+
+ @media(max-width:655px) and (min-width:600){
+
+
+
+
+
+ }
+ @media(min-width: 700px) and (max-width: 991px){
+
+  .hearderset h2{
+        font-size: 30px;
+        font-family: "Poppins", sans-serif;
+    
+    
+    }
+    .hearderset h1{
+        font-size: 50px;
+        font-weight: bold; 
+        font-family: "Poppins", sans-serif;
+    
+    }
+     
+    .nav-item{
+        padding-right: 40px;
+        padding-left: 40px;
+        font-size: 17px;
+        font-family:  'Inconsolata', monospace;
+    }
+    .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: tomato;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: tomato;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+ 
+  
+
+
+
+
+
+ 
+   
+
+
+
+
+
+ 
